@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2637
     wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23538#Hugh-Selwyn-Mauberley
 gutenberg_issued: '2007-11-18'
 gutenberg_type: Text
 identifiers:

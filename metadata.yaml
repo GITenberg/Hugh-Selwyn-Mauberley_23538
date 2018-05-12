@@ -1,0 +1,31 @@
+_repo: Hugh-Selwyn-Mauberley_23538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pound, Ezra
+    aliases:
+    - Pound, Ezra Loomis
+    - Atheling, William
+    birthdate: 1885
+    deathdate: 1972
+    gutenberg_agent_id: '2637'
+    url: http://www.gutenberg.org/2009/agents/2637
+    wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
+description: ''
+gutenberg_issued: '2007-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23538'
+  lccn: '45022705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Hugh Selwyn Mauberley
+url: http://www.gutenberg.org/ebooks/23538
